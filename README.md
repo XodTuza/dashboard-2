@@ -1,5 +1,5 @@
-# Salubata
-Salubata App
+# Boilerplate
+Boilerplate
 
 step1: clone project
 
