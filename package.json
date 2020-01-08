@@ -1,0 +1,16 @@
+{
+  "name": "salubata-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build-css": "node-sass assets/sass/main.scss assets/css/theme.css -w",
+    "minify-css": "node-sass assets/css/theme.css assets/css/theme.min.css --output-style compressed -w",
+    "serve": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}

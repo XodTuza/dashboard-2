@@ -1,0 +1,29 @@
+.DS_Store
+node_modules
+.idea
+.idea/workspace.xml
+.idea/tasks.xml
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.iws
+*.iml
+*.xml
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
