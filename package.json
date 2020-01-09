@@ -1,5 +1,5 @@
 {
-  "name": "salubata-new",
+  "name": "boilerplate-html",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.13.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
   }
 }
